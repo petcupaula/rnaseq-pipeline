@@ -1,0 +1,7 @@
+Group	Sample name	Experiment	Runs	Age	Biomaterial Provider	Sex	Tissue	Disease	Race	RIN	Fraction
+Fetal	R3452_DLPFC_polyA_RNAseq_total	SRX683795	"SRR1554537	SRR2071348"	-0.3836	LIBD	female	DLPFC	control	AA	9.6	total
+Fetal	R4707_DLPFC_polyA_RNAseq_total	SRX683825	"SRR1554567	SRR2071378"	-0.4027	LIBD	male	DLPFC	control	AA	8.6	total
+Fetal	R4706_DLPFC_polyA_RNAseq_total	SRX683824	"SRR1554566	SRR2071377"	-0.4986	LIBD	male	DLPFC	control	HISP	8.3	total
+Adult	R3467_DLPFC_polyA_RNAseq_total	SRX683797	"SRR1554539	SRR2071350"	36.5	LIBD	female	DLPFC	control	AA	9	total
+Adult	R2869_DLPFC_polyA_RNAseq_total	SRX683793	"SRR1554535	SRR2071346"	41.58	LIBD	male	DLPFC	control	AA	8.7	total
+Adult	R4166_DLPFC_polyA_RNAseq_total	SRX683819	"SRR1554561	SRR2071372"	43.88	LIBD	male	DLPFC	control	AA	8.7	total
