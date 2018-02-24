@@ -1,5 +1,7 @@
 # rnaseq-pipeline
 
+The data used in this analysis is described in `Jaffe AE, Shin J, Collado-Torres L, et al. Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature neuroscience. 2015;18(1):154-161. doi:10.1038/nn.3898.` https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281298/#SD2
+
 ## Download the files
 
 ### Option 1: SRA Toolkit
